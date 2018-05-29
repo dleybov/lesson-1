@@ -1,2 +1,2 @@
-# lesson-1
-GSTI Homework Lesson One
+# lesson-3
+GSTI Homework Lesson Three
